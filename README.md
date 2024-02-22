@@ -1,2 +1,2 @@
-# Advanced_Econometrics
+# Replication of Angirst-Evans (1988) Paper
 This is a replication of Angrist-Evans 1998 ("Children and Their Parents' Labor Supply: Evidence from Exogenous Variation in Family Size"). Angrist and Evan used the gender mix of the first two children as an instrumental variable for having a third child to estimate the impact of childbearing on parents' labor supply. This replication uses the 1980 USA census data, which was obtained from International IPUMS.
